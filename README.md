@@ -96,8 +96,8 @@ src/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/claude-leaked.git
-    cd claude-leaked
+    git clone https://github.com/nuekkis/claude-code.git
+    cd claude-code
     ```
 
 2.  **Install Dependencies:**
