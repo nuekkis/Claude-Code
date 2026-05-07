@@ -96,7 +96,7 @@ src/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/nuekkis/claude-code.git
+    git clone https://github.com/nuekkis/Claude-Code.git
     cd claude-code
     ```
 
